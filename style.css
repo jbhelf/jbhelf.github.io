@@ -9,7 +9,7 @@ header
     /*background-image: url(image_file_name);*/
     background-color: white;
     height: 100vh;
-    background-size: 1000px 20px;
+    background-size: 10px 20px;
     background-position: center;
 }
 
@@ -101,6 +101,7 @@ h1
 
 .linkedin:hover
 {
+    background-color: rgb(9, 174, 211);
     transition: all 0.5;
 }
 
