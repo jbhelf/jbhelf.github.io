@@ -72,7 +72,7 @@ h1
 {
     color: black;
     text-transform: none;
-    font-size: 75 px;
+    font-size: 200 px;
     text-align: center;
     margin-top: 275px;
 }
@@ -80,7 +80,7 @@ h1
 .button
 {
     margin-top: 30px;
-    margin-left: 440px;
+    margin-left: 480px;
 }
 
 .btn
@@ -96,7 +96,7 @@ h1
 
 .linkedin
 {
-    font-family: "Roboto", sans-serif;
+    font-family: "Calibri", sans-serif;
 }
 
 .linkedin:hover
@@ -107,7 +107,7 @@ h1
 
 .github
 {
-    font-family: "Roboto", sans-serif;
+    font-family: "Calibri", sans-serif;
 }
 
 .github:hover
