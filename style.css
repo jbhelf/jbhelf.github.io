@@ -6,12 +6,11 @@
 
 header
 {
-    /*
-    background-image: url(image_file_name);
+    /*background-image: url(image_file_name);*/
+    background-color: black;
     height: 100vh;
     background-size: cover;
     background-position: center;
-    */
 }
 
 .main-nav
@@ -102,7 +101,6 @@ h1
 
 .linkedin:hover
 {
-    background-color: red;
     transition: all 0.5;
 }
 
@@ -112,8 +110,8 @@ h1
 }
 
 .github:hover
-{
-    background-color: red;
+{    
+    background-color: rgb(9, 174, 211);
     transition: all 0.5;
 }
 .resume
@@ -123,6 +121,6 @@ h1
 
 .resume:hover
 {
-    background-color: red;
+    background-color: rgb(9, 174, 211);
     transition: all 0.5;
 }
