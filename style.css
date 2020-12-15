@@ -7,9 +7,9 @@
 header
 {
     /*background-image: url(image_file_name);*/
-    background-color: white;
+    background-color: black;
     height: 100vh;
-    background-size: 10px 20px;
+    background-size: 1000px 200px;
     background-position: center;
 }
 
@@ -85,9 +85,9 @@ h1
 
 .btn
 {
-    border: 1px solid black;
+    border: 1px solid gray;
     padding: 30px 90px;
-    color: black;
+    color: white;
     text-decoration: none;
     margin-right: 5px;
     font-size: 13px;
