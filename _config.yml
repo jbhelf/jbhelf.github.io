@@ -60,8 +60,17 @@ topics:
     image_url: 
 
 tolearn:
-  - name: test123
-    web_url: https://espn.com
+  - name: Project Management
+    web_url: https://github.com/topics/project-management
     image_url: 
+  
+  - name: Amazon Web Services
+    web_url: https://github.com/topics/aws
+    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
+      
+  - name: Unity
+    web_url: https://github.com/topics/unity
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png
+  
 
     #Topics I enjoy, Topics I want to become more familiar with, PROGRAMMING LANGUAGES
