@@ -46,7 +46,7 @@ projects:
   # website: http://your_website_url
   # youtube: your_username
 
-topics I am Familar With:
+topics:
   - name: Deep Learning
     web_url: https://github.com/topics/deep-learning
     image_url: 
