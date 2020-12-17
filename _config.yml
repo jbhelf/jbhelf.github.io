@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -46,13 +46,17 @@ projects:
   # website: http://your_website_url
   # youtube: your_username
 
-topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+topics I am Familar With:
+  - name: Deep Learning
+    web_url: https://github.com/topics/deep-learning
+    image_url: 
 
-  - name: Web design
+  - name: Algorithms
+    web_url: https://github.com/topics/algorithm
+    image_url:
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Continious Integration
+    web_url: https://github.com/topics/continuous-integration
+    image_url: 
+
+    #Topics I enjoy, Topics I want to become more familiar with, PROGRAMMING LANGUAGES
