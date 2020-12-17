@@ -46,6 +46,19 @@ projects:
   # website: http://your_website_url
   # youtube: your_username
 
+languages:
+  - name: C
+    web_url: https://github.com/topics/c
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png
+
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+    
+  - name: Linux
+    web_url: https://github.com/topics/linux
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
+
 topics:
   - name: Machine and Deep Learning
     web_url: https://github.com/topics/machine-learning
@@ -72,5 +85,3 @@ tolearn:
     web_url: https://github.com/topics/unity
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png
   
-
-    #Topics I enjoy, Topics I want to become more familiar with, PROGRAMMING LANGUAGES
