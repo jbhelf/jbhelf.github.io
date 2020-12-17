@@ -47,8 +47,8 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: Deep Learning
-    web_url: https://github.com/topics/deep-learning
+  - name: Machine and Deep Learning
+    web_url: https://github.com/topics/machine-learning
     image_url: 
 
   - name: Algorithms
@@ -57,6 +57,11 @@ topics:
 
   - name: Continious Integration
     web_url: https://github.com/topics/continuous-integration
+    image_url: 
+
+tolearn:
+  - name: test123
+    web_url: https://espn.com
     image_url: 
 
     #Topics I enjoy, Topics I want to become more familiar with, PROGRAMMING LANGUAGES
