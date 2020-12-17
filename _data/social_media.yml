@@ -86,4 +86,4 @@ youtube:
 email:
   name: Personal Email
   profile_url_prefix: 'mailto:'
-  icon_svg: 'download.png'
+  icon_svg: Personal Email
