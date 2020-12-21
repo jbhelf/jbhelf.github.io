@@ -59,16 +59,16 @@ topics:
     web_url: https://github.com/topics/continuous-integration
     image_url: https://cdn.pixabay.com/photo/2018/02/20/19/02/isolated-3168537__340.png
 
-tolearn:
-  - name: Project Management
-    web_url: https://github.com/topics/project-management
-    image_url: https://cdn.pixabay.com/photo/2017/02/13/02/17/project-management-2061635_1280.jpg
+#tolearn:
+#  - name: Project Management
+#    web_url: https://github.com/topics/project-management
+#    image_url: https://cdn.pixabay.com/photo/2017/02/13/02/17/project-management-2061635_1280.jpg
   
-  - name: Amazon Web Services
-    web_url: https://github.com/topics/aws
-    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
+#  - name: Amazon Web Services
+#    web_url: https://github.com/topics/aws
+#    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
       
-  - name: Unity
-    web_url: https://github.com/topics/unity
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png
+#  - name: Unity
+#    web_url: https://github.com/topics/unity
+#    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png
   
