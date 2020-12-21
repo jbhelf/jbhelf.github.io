@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: dark
 
 plugins:
@@ -30,7 +30,7 @@ projects:
 
 social_media:
   linkedin: justin-helfman-2b21a0168
-  email: justinbhelfman@gmail.com
+  email: ''
   #Resume:
 
 languages:

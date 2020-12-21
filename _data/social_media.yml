@@ -85,5 +85,5 @@ youtube:
 
 email:
   name: Personal Email
-  profile_url_prefix: 'mailto:'
-  icon_svg: Personal Email
+  profile_url_prefix: 'mailto:justinbhelfman@gmail.com'
+  icon_svg: './_data/download.png'
