@@ -21,12 +21,12 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - jbhelf.github.io
 
 social_media:
   linkedin: justin-helfman-2b21a0168
