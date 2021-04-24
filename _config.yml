@@ -9,7 +9,8 @@ plugins:
 permalink: /:year/:month/:day/:title/
 
 defaults:
-  - scope:
+  -
+    scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
@@ -33,13 +34,13 @@ social_media:
   resume: Justin%20Helfman%20-%20Resume.pdf
 
 languages:
-  - name: Python
-    web_url: https://github.com/topics/python
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
-
   - name: C
     web_url: https://github.com/topics/c
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png
+
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
     
   - name: Linux
     web_url: https://github.com/topics/linux
@@ -50,9 +51,9 @@ topics:
     web_url: https://www.redhat.com/en/topics/devops
     image_url: https://devopedia.org/images/article/54/7602.1513404277.png
   
-  - name: Software Engineering
-    web_url: https://www.guru99.com/what-is-software-engineering.html
-    image_url: https://www.guru99.com/images/1/093019_0641_WhatisSoftw1.png
+  - name: Software Developement
+    web_url: https://github.com/topics/algorithm
+    image_url: https://thumbs.dreamstime.com/b/programing-workflow-abstract-algorithm-programing-workflow-abstract-algorithm-concept-124110762.jpg
   
     - name: Machine and Deep Learning
     web_url: https://github.com/topics/machine-learning
