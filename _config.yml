@@ -49,11 +49,11 @@ languages:
 topics:
   - name: DevOps
     web_url: https://www.redhat.com/en/topics/devops
-    image_url: https://devopedia.org/images/article/54/7602.1513404277.png
+    image_url: https://miro.medium.com/max/716/1*ktxaMApynOG3_tcqImzhYA.png
 
   - name: Software Engineering
     web_url: https://www.guru99.com/what-is-software-engineering
-    image_url: https://www.guru99.com/images/1/093019_0641_WhatisSoftw1.png
+    image_url: https://kirkpatrickprice.com/wp-content/uploads/2020/01/Best-Practices-for-a-Secure-Software-Development-Life-Cycle-700x500.jpg
   
   - name: Machine and Deep Learning
     web_url: https://github.com/topics/machine-learning
