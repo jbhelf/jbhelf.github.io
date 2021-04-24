@@ -47,17 +47,30 @@ languages:
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
 
 topics:
-  - name: Machine and Deep Learning
-    web_url: https://github.com/topics/machine-learning
-    image_url: https://cdn.pixabay.com/photo/2017/09/08/19/07/a-2729794_1280.png
-
   - name: Algorithms
     web_url: https://github.com/topics/algorithm
     image_url: https://thumbs.dreamstime.com/b/programing-workflow-abstract-algorithm-programing-workflow-abstract-algorithm-concept-124110762.jpg
 
-  - name: Continious Integration/
+  - name: Continious Integration
     web_url: https://github.com/topics/continuous-integration
     image_url: https://cdn.pixabay.com/photo/2018/02/20/19/02/isolated-3168537__340.png
+  
+  - name: Machine and Deep Learning
+    web_url: https://github.com/topics/machine-learning
+    image_url: https://cdn.pixabay.com/photo/2017/09/08/19/07/a-2729794_1280.png
+
+#topics:
+#  - name: DevOps
+#    web_url: https://www.redhat.com/en/topics/devops
+#    image_url: https://devopedia.org/images/article/54/7602.1513404277.png
+  
+#  - name: Software Engineering
+#    web_url: https://www.guru99.com/what-is-software-engineering.html
+#    image_url: https://www.guru99.com/images/1/093019_0641_WhatisSoftw1.png
+  
+#    - name: Machine and Deep Learning
+#    web_url: https://github.com/topics/machine-learning
+#    image_url: https://cdn.pixabay.com/photo/2017/09/08/19/07/a-2729794_1280.png
 
 #tolearn:
 #  - name: Project Management
