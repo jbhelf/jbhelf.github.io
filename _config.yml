@@ -51,9 +51,9 @@ topics:
     web_url: https://www.redhat.com/en/topics/devops
     image_url: https://devopedia.org/images/article/54/7602.1513404277.png
 
-  - name: Continious Integration
-    web_url: https://github.com/topics/continuous-integration
-    image_url: https://cdn.pixabay.com/photo/2018/02/20/19/02/isolated-3168537__340.png
+  - name: Software Engineering
+    web_url: https://www.guru99.com/what-is-software-engineering
+    image_url: https://www.guru99.com/images/1/093019_0641_WhatisSoftw1.png
   
   - name: Machine and Deep Learning
     web_url: https://github.com/topics/machine-learning
