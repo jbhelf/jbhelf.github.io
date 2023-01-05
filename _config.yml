@@ -42,10 +42,14 @@ languages:
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png
     
   - name: Linux
-    web_url: https://github.com/topics/linux
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
+    web_url: https://github.com/topics/bash
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png
 
 topics:
+  - name: Machine and Deep Learning
+    web_url: https://github.com/topics/machine-learning
+    image_url: https://cdn.pixabay.com/photo/2017/09/08/19/07/a-2729794_1280.png
+
   - name: DevOps
     web_url: https://www.redhat.com/en/topics/devops
     image_url: https://miro.medium.com/max/716/1*ktxaMApynOG3_tcqImzhYA.png
@@ -54,9 +58,7 @@ topics:
     web_url: https://www.guru99.com/what-is-software-engineering
     image_url: https://www.concordia.ca/content/concordia/en/academics/graduate/software-engineering-meng.img.png/1601320880626.jpg
   
-  - name: Machine and Deep Learning
-    web_url: https://github.com/topics/machine-learning
-    image_url: https://cdn.pixabay.com/photo/2017/09/08/19/07/a-2729794_1280.png
+  
 
 #topics:
 #  - name: DevOps
