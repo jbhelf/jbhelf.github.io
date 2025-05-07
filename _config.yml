@@ -48,11 +48,11 @@ languages:
 topics:
   - name: Sales & Solutions Engineering
     web_url: https://sales-engineering.org/
-    image_url: https://miro.medium.com/v2/resize:fit:1400/0*aFN9idLLBlRkbPVN.png
+    image_url: https://cdn-icons-png.flaticon.com/512/13339/13339383.png
 
   - name: DevOps & Site Reliability
     web_url: https://aws.amazon.com/devops/what-is-devops/
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Devops-toolchain.svg/2560px-Devops-toolchain.svg.png
+    image_url: https://seeklogo.com/images/D/devops-logo-CDF1353483-seeklogo.com.png
 
   - name: AI for Everyday Tools
     web_url: https://en.wikipedia.org/wiki/Artificial_intelligence
